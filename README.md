@@ -53,7 +53,7 @@ Skeleton is lightweight and simple. It styles only raw HTML elements (with a few
 ## How it's used on Matt Clark's website
 
 1. Edit files from the src directory
-1. Run grunt (you may need to add a --force option for some unkown reason)
+1. Run grunt (you may need to add a --force option for some unknown reason)
 1. Do something to update gh-pages
 
 DONE!
